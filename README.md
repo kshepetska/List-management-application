@@ -1,10 +1,13 @@
 # Todo App
 
+[DEMO LINK](https://kshepetska.github.io/List-management-application/)
+
 ## Technologies Used:
-- JavaScript: Utilized for the core functionality and logic of the application.
-- TypeScript: Used to enhance the code with static typing, ensuring better type safety and code quality.
-- SCSS: Applied for styling the application with modular and maintainable CSS.
-- HTML: Used to structure the web application and integrate with JS/TS components.
+
+- **JavaScript**: Utilized for the core functionality and logic of the application.
+- **TypeScript**: Used to enhance the code with static typing, ensuring better type safety and code quality.
+- **SCSS**: Applied for styling the application with modular and maintainable CSS.
+- **HTML**: Used to structure the web application and integrate with JS/TS components.
 
 ## Implementation Summary:
 
@@ -46,3 +49,11 @@
 -  Provided users with the ability to edit a todo title upon double click.
 -  Saved changes on form submission or onBlur events and canceled editing on pressing the Escape key.
 -  Implemented a loader while waiting for the API response and updated the todo title upon success.
+
+## Getting Started:
+
+Follow these simple steps:
+
+- Clone this repository to your local machine
+- Run 'npm i' to install dependencies
+- Run 'npm start' to start the project
